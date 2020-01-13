@@ -2,10 +2,15 @@ These are the rainbow colors and unicorn:
 Unicorn silver
 red
 yellow
-green
+green---
+(red,blue,green)
 blue
 purple
 orange
 indigo
 Unicorns have silver horn
 unicorns are fictitious
+let me add some colors:
+pink
+aqua blue
+are they your favorites??
