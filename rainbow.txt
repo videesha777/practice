@@ -1,6 +1,8 @@
 These are the rainbow colors:
 red
 yellow
+green
 blue
 purple
 orange
+indigo
