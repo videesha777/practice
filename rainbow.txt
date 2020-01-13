@@ -2,7 +2,7 @@ These are the rainbow colors and unicorn:
 Unicorn silver
 red
 yellow
-green---
+green
 (red,blue,green)
 blue
 purple
