@@ -1,5 +1,6 @@
-These are the rainbow colors and unicorn:
+These are the rainbow colors and unicorn and ponies:
 Unicorn silver
+pony light yellow
 red
 yellow
 green
@@ -9,3 +10,4 @@ orange
 indigo
 Unicorns have silver horn
 unicorns are fictitious
+Ponies are real like objects
