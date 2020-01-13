@@ -1,4 +1,5 @@
-These are the rainbow colors:
+These are the rainbow colors and unicorn:
+Unicorn silver
 red
 yellow
 green
@@ -6,3 +7,5 @@ blue
 purple
 orange
 indigo
+Unicorns have silver horn
+unicorns are fictitious
